@@ -1,6 +1,6 @@
 /**
  * This script creates card svgs to add to your site.
- * Copyright oxmc. <https://oxmc.xyz/>
+ * Copyright oxmc. <https://oxmc.is-a.dev/>
  * licensed under the GNU General Public License v3.0
  */
 function cardlist(opt) {
